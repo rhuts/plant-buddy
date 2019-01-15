@@ -1,0 +1,4 @@
+host: mcsdb.utm.utoronto.ca
+user: csc301app3
+database: csc301app3
+password: 29lnclkmlkn2oi34nc,.g
